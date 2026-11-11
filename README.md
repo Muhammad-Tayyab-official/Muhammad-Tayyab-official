@@ -76,7 +76,7 @@ I maintain two GitHub accounts as part of the same developer journey. This is my
 
 Both profiles represent my own learning, development, and project-building journey.
 
-<<table>
+<table>
 <tr>
 <td width="50%" valign="top">
 
