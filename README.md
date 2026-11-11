@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tayyab-younas-05b068389/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-chi-amber-40.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Muhammad-Tayyab-official)
+[![Main GitHub](https://img.shields.io/badge/GitHub-Academic%20Profile-181717?style=for-the-badge&logo=github)](https://github.com/Muhammad-Tayyab-official)
+[![Personal GitHub](https://img.shields.io/badge/Personal%20GitHub-Previous%20Workspace-24292F?style=for-the-badge&logo=github)](https://github.com/younastayyab973-arch)
 
 </div>
 
@@ -69,7 +70,56 @@ An experimental application combining computer vision and parametric mathematics
 
 ---
 
-## `03` — Technology Stack
+## `03` — My Personal & Academic GitHub Workspaces
+
+I maintain two GitHub accounts as part of the same developer journey. This is my **academic profile**, while my [personal GitHub account](https://github.com/younastayyab973-arch) contains projects and experiments from my earlier development work.
+
+Both profiles represent my own learning, development, and project-building journey.
+
+<<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Academic GitHub
+
+**Current profile**
+
+[github.com/Muhammad-Tayyab-official](https://github.com/Muhammad-Tayyab-official)
+
+My academic-focused workspace for mathematics, data science, AI, coursework, and ongoing development.
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Personal GitHub
+
+**Earlier development workspace**
+
+[github.com/younastayyab973-arch](https://github.com/younastayyab973-arch)
+
+My personal workspace featuring full-stack applications, AI experiments, predictive models, and programming projects.
+
+</td>
+</tr>
+</table>
+
+### More Projects from My Personal Account
+
+| Project | Focus | Repository |
+|---|---|---|
+| **FoodLion Fullstack** | Full-stack application development | [View Repository](https://github.com/younastayyab973-arch/FoodLion-Fullstack) |
+| **FoodLion Project** | Application development | [View Repository](https://github.com/younastayyab973-arch/FoodLion-Project-) |
+| **VitalHub** | Health technology & AI assistant | [View Repository](https://github.com/younastayyab973-arch/VitalHub) |
+| **Diabetes Risk Matcher** | Bayesian analysis & health risk prediction | [View Repository](https://github.com/younastayyab973-arch/diabetes-risk-matcher) |
+| **Micro Business Predictor** | Predictive modeling & data science | [View Repository](https://github.com/younastayyab973-arch/micro_business_predictor) |
+| **Bayes Theorem Medical Diagnostic** | Probability & Bayesian reasoning | [View Repository](https://github.com/younastayyab973-arch/Bayes-Theorem-Medical-Diagnostic-Python) |
+| **Hospital Management System (C++)** | Object-oriented programming | [View Repository](https://github.com/younastayyab973-arch/Hospital-Management-System-CPP-1) |
+| **Hospital Management System (C++) — Original** | C++ programming project | [View Repository](https://github.com/younastayyab973-arch/Hospital-Management-System-CPP) |
+| **IO** | Programming project | [View Repository](https://github.com/younastayyab973-arch/IO) |
+
+---
+
+## `04` — Technology Stack
 
 <div align="center">
 
@@ -94,7 +144,7 @@ An experimental application combining computer vision and parametric mathematics
 
 ---
 
-## `04` — GitHub Performance
+## `05` — GitHub Performance
 
 <div align="center">
 
@@ -108,7 +158,7 @@ An experimental application combining computer vision and parametric mathematics
 
 ---
 
-## `05` — Let's Connect
+## `06` — Let's Connect
 
 <div align="center">
 
@@ -116,6 +166,7 @@ Interested in mathematics, data science, AI, and collaborative projects.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyab_Younas-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tayyab-younas-05b068389/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-6C63FF?style=flat-square&logo=vercel)](https://my-portfolio-chi-amber-40.vercel.app/)
+[![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-Explore-24292F?style=flat-square&logo=github)](https://github.com/younastayyab973-arch)
 
 <img src="https://komarev.com/ghpvc/?username=Muhammad-Tayyab-official&style=for-the-badge&color=4169E1&label=PROFILE+VISITORS" />
 
