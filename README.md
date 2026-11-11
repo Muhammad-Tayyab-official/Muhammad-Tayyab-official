@@ -1,83 +1,128 @@
-# Hi, I'm Tayyab! 👋
+<!-- HERO SECTION -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=700&lines=Mathematics+with+Data+Science+Student;Exploring+Statistics%2C+Python+%26+AI;Turning+Mathematics+into+Real-World+Solutions)](https://git.io/typing-svg)
+<div align="center">
 
-I'm a Mathematics with Data Science student interested in using mathematics, statistics, and programming to solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:142B50,100:4169E1&height=190&section=header&text=Tayyab%20Younas&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Mathematics%20%7C%20Data%20Science%20%7C%20AI&descAlignY=60&descSize=17" width="100%" />
 
-I enjoy building practical projects that combine mathematical concepts with data science, visualization, and artificial intelligence.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Mathematics+with+Data+Science+Student;Exploring+Statistics+%26+Artificial+Intelligence;Building+Mathematics-Driven+Applications;Turning+Ideas+Into+Real-World+Solutions)](https://git.io/typing-svg)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tayyab-younas-05b068389/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-chi-amber-40.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Muhammad-Tayyab-official)
 
-### 🚀 About Me
-
-- 🎓 Studying Mathematics with Data Science
-- 📊 Interested in Statistics, Data Analysis, and Mathematical Modeling
-- 🐍 Exploring Python and AI-powered applications
-- 💡 Learning by building practical projects
-- 🔍 Interested in connecting mathematical theory with real-world applications
+</div>
 
 ---
 
-### ⭐ Featured Projects
+## `01` — About Me
 
-**1. [Surv-AI](https://github.com/Muhammad-Tayyab-official/Surv-AI)**
+I'm a Mathematics with Data Science student passionate about connecting mathematical theory with modern technology.
 
-- Bayesian inference-based business survival prediction
-- Statistical analysis and probability modeling
-- Interactive Streamlit dashboard
-- Python, Pandas, NumPy, SciPy, and Plotly
+I enjoy exploring how **statistics, probability, mathematical modeling, and programming** can solve practical problems.
 
-**2. [Mathematical Face Sketch](https://github.com/Muhammad-Tayyab-official/Mathematical-Face-Sketch)**
-
-- Mathematical face sketch generation
-- MediaPipe Face Mesh and OpenCV
-- Fourier-based parametric curves
-- Animated tracing and mathematical equation exports
+- 🎓 Mathematics with Data Science
+- 📊 Statistical Analysis & Mathematical Modeling
+- 🧠 Artificial Intelligence & Data Science
+- 💻 Python-based Application Development
+- 🔬 Learning through experimentation and practical projects
 
 ---
 
-### 🛠️ Technologies & Tools
+## `02` — Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔷 Surv-AI
+
+**Bayesian Business Survival Prediction**
+
+A data-driven application using Bayesian inference to estimate business survival probabilities.
+
+- Bayesian probability modeling
+- Statistical prediction
+- Interactive visualization
+- Python · Streamlit · SciPy
+
+[**Explore Project →**](https://github.com/Muhammad-Tayyab-official/Surv-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧮 Mathematical Face Sketch
+
+**Mathematics Meets Computer Vision**
+
+An experimental application combining computer vision and parametric mathematics to generate face sketches.
+
+- MediaPipe & OpenCV
+- Fourier-based curves
+- Animated tracing
+- Python · Streamlit
+
+[**Explore Project →**](https://github.com/Muhammad-Tayyab-official/Mathematical-Face-Sketch)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `03` — Technology Stack
+
+<div align="center">
+
+**Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-276DC3?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Data Science**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
----
+**Mathematical Interests**
 
----
+`Statistics` `Probability` `Bayesian Inference` `Fourier Analysis` `Mathematical Modeling`
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Muhammad-Tayyab-official&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhammad-Tayyab-official&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+</div>
 
 ---
 
-## 🔥Contribution Streak
+## `04` — GitHub Performance
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Tayyab-official&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
+<img src="https://github-stats-extended.vercel.app/api?username=Muhammad-Tayyab-official&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhammad-Tayyab-official&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
-## 🌐 Connect With Me
+<img src="https://streak-stats.demolab.com?user=Muhammad-Tayyab-official&theme=tokyonight&hide_border=true" width="80%" />
 
-- **LinkedIn:** [Tayyab Younas](https://www.linkedin.com/in/tayyab-younas-05b068389/)
-- **Portfolio:** [Visit My Portfolio](https://my-portfolio-chi-amber-40.vercel.app/)
+</div>
 
 ---
----
 
-⭐ *Learning, experimenting, and building one project at a time.*
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Tayyab-official&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</p>
+## `05` — Let's Connect
+
+<div align="center">
+
+Interested in mathematics, data science, AI, and collaborative projects.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tayyab_Younas-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tayyab-younas-05b068389/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Work-6C63FF?style=flat-square&logo=vercel)](https://my-portfolio-chi-amber-40.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Tayyab-official&style=for-the-badge&color=4169E1&label=PROFILE+VISITORS" />
+
+<br/>
+
+<i>Turning Mathematical Thinking Into Meaningful Technology.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4169E1,50:142B50,100:080D1A&height=100&section=footer" width="100%" />
+
+</div>
