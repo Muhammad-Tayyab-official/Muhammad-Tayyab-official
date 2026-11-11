@@ -212,7 +212,11 @@ My personal workspace featuring full-stack applications, AI experiments, predict
 
 <img src="https://streak-stats.demolab.com?user=Muhammad-Tayyab-official&theme=tokyonight&hide_border=true" width="80%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Tayyab-official&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub profile trophies" />
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Tayyab-official&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=12" width="100%" alt="GitHub Profile Trophies for Muhammad-Tayyab-official" />
+  </a>
+</p>
 
 </div>
 
