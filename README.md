@@ -48,12 +48,36 @@ I enjoy building practical projects that combine mathematical concepts with data
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+---
 
-### 🌐 Connect With Me
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Muhammad-Tayyab-official&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muhammad-Tayyab-official&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+## 🔥Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Tayyab-official&theme=tokyonight&hide_border=true" />
+</p>
+
+
+
+## 🌐 Connect With Me
 
 - **LinkedIn:** [Tayyab Younas](https://www.linkedin.com/in/tayyab-younas-05b068389/)
 - **Portfolio:** [Visit My Portfolio](https://my-portfolio-chi-amber-40.vercel.app/)
 
 ---
+---
 
 ⭐ *Learning, experimenting, and building one project at a time.*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Tayyab-official&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+</p>
