@@ -31,42 +31,100 @@ I enjoy exploring how **statistics, probability, mathematical modeling, and prog
 
 ## `02` — Featured Projects
 
+A selection of projects across my **academic and personal GitHub workspaces**, covering mathematical computing, data science, AI, and full-stack development.
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Surv-AI
+<h3>🧮 Mathematical Face Sketch</h3>
+<strong>Mathematics × Computer Vision</strong><br/>
+<sub>ACADEMIC WORKSPACE</sub>
 
-**Bayesian Business Survival Prediction**
+Transform portraits into animated mathematical drawings using facial landmarks, OpenCV contours, and Fourier-based curve reconstruction.
 
-A data-driven application using Bayesian inference to estimate business survival probabilities.
+<strong>Stack:</strong> Python · MediaPipe · OpenCV · Streamlit
 
-- Bayesian probability modeling
-- Statistical prediction
-- Interactive visualization
-- Python · Streamlit · SciPy
-
-[**Explore Project →**](https://github.com/Muhammad-Tayyab-official/Surv-AI)
+<a href="https://github.com/Muhammad-Tayyab-official/Mathematical-Face-Sketch">↗ Explore Project</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🧮 Mathematical Face Sketch
+<h3>🔷 Surv-AI</h3>
+<strong>Bayesian Business Survival Predictor</strong><br/>
+<sub>ACADEMIC WORKSPACE</sub>
 
-**Mathematics Meets Computer Vision**
+An educational decision-support prototype that estimates micro-business survival probability through a 15-question assessment and a Naive Bayes model.
 
-An experimental application combining computer vision and parametric mathematics to generate face sketches.
+<strong>Stack:</strong> Python · Streamlit · SciPy · Plotly
 
-- MediaPipe & OpenCV
-- Fourier-based curves
-- Animated tracing
-- Python · Streamlit
+<a href="https://github.com/Muhammad-Tayyab-official/Surv-AI">↗ Explore Project</a>
 
-[**Explore Project →**](https://github.com/Muhammad-Tayyab-official/Mathematical-Face-Sketch)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🍔 FoodLion</h3>
+<strong>Full-Stack Food Delivery Platform</strong><br/>
+<sub>PERSONAL WORKSPACE</sub>
+
+A food delivery management system with a Django REST API and multiple dashboards for customers, restaurants, riders, and administrators.
+
+<strong>Stack:</strong> Django · REST API · JavaScript · HTML · CSS
+
+<a href="https://github.com/younastayyab973-arch/FoodLion-Fullstack">↗ Explore Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🩺 Diabetes Risk Pattern-Matcher</h3>
+<strong>Explainable Bayesian Statistics</strong><br/>
+<sub>PERSONAL WORKSPACE</sub>
+
+An interactive statistics project that updates probability from evidence using Bayes' theorem, distributions, and confidence intervals. Educational only — not a diagnostic tool.
+
+<strong>Stack:</strong> Python · Pandas · NumPy · SciPy · Streamlit
+
+<a href="https://github.com/younastayyab973-arch/diabetes-risk-matcher">↗ Explore Project</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💡 VitalHub</h3>
+<strong>Health Gadgets & AR Store Concept</strong><br/>
+<sub>PERSONAL WORKSPACE</sub>
+
+A modern health-gadgets store concept exploring augmented-reality shopping experiences.
+
+<strong>Project focus:</strong> Health technology · AR experience
+
+<a href="https://github.com/younastayyab973-arch/VitalHub">↗ Explore Project</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🏥 Hospital Management System</h3>
+<strong>C++ · Object-Oriented Foundations</strong><br/>
+<sub>PERSONAL WORKSPACE</sub>
+
+A console-based system for patient eligibility, priority classification, checkup scheduling, and ward performance tracking.
+
+<strong>Stack:</strong> C++ · Conditions · Loops · 2D Arrays
+
+<a href="https://github.com/younastayyab973-arch/Hospital-Management-System-CPP-1">↗ Explore Project</a>
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/Muhammad-Tayyab-official?tab=repositories">Explore Academic Repositories</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/younastayyab973-arch?tab=repositories">Explore Personal Repositories</a>
+</p>
 
 ---
 
