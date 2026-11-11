@@ -1,6 +1,6 @@
 # Hi, I'm Tayyab! 👋
 
-### Mathematics with Data Science Student | Exploring Statistics, Python & AI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=700&lines=Mathematics+with+Data+Science+Student;Exploring+Statistics%2C+Python+%26+AI;Turning+Mathematics+into+Real-World+Solutions)](https://git.io/typing-svg)
 
 I'm a Mathematics with Data Science student interested in using mathematics, statistics, and programming to solve real-world problems.
 
